@@ -262,7 +262,7 @@
 - DevOps 담당
 - 개발 전반에 대한 리드 담당
 
-# <img src="https://user-images.githubusercontent.com/62986636/167094502-2cbb17f8-cb75-484d-bd1e-8d6d2962f4c3.png" width="30px"> Interesting
+# <img src="https://user-images.githubusercontent.com/62986636/167094502-2cbb17f8-cb75-484d-bd1e-8d6d2962f4c3.png" width="35px"> Interesting
 
 
 최근 학습 관심사에 대해서 간단하게 정리합니다.
