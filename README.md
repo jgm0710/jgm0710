@@ -262,17 +262,18 @@
 - DevOps 담당
 - 개발 전반에 대한 리드 담당
 
-## Interesting
+## Interesting![fun-fact](https://user-images.githubusercontent.com/62986636/167094502-2cbb17f8-cb75-484d-bd1e-8d6d2962f4c3.png)
+
 
 최근 학습 관심사에 대해서 간단하게 정리합니다.
 
-### TDD
+### 💡 TDD
 
 단순히 비즈니스 로직을 구현하고, 검증하기 위해 테스트 코드를 작성하는 것을 넘어,
 
 테스트 코드를 선행하여 작성함으로써 비즈니스 로직이 해결해야 할 문제 상황에 더욱 집중할 수 있도록 도와줄 수 있음을 깨닫게 되어 관련 학습 진행 중에 있습니다.
 
-### DDD Architecture
+### 💡 DDD Architecture
 
 기존 레이어드 아키텍쳐의 한계를 경험
 - 도메인별 응집도가 낮음으로 인해 소스 코드 변경 사항이 다른 도메인에 전파될 수 있음을 경험
@@ -288,7 +289,7 @@
 - presentation, application service, domain, infrastructure 계층에 대한 구분을 명확하게 하여, 하위 계층의 변경 사항이 상위 계층에 영향을 끼치는 정도 최소화 
 - 메세지 큐잉 서비스를 활용한 이벤트 소싱 관련 학습
 
-### MSA Architecture
+### 💡 MSA Architecture
 
 대용량 트래픽에 대하여 효과적으로 대비할 수 있는 아키텍쳐에 대한 관심이 있어 다음의 학습을 진행 중에 있습니다.
 
