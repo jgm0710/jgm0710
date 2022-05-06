@@ -262,7 +262,7 @@
 - DevOps 담당
 - 개발 전반에 대한 리드 담당
 
-## Interesting![fun-fact](https://user-images.githubusercontent.com/62986636/167094502-2cbb17f8-cb75-484d-bd1e-8d6d2962f4c3.png)
+## <img src="https://user-images.githubusercontent.com/62986636/167094502-2cbb17f8-cb75-484d-bd1e-8d6d2962f4c3.png" width="30px"> Interesting
 
 
 최근 학습 관심사에 대해서 간단하게 정리합니다.
@@ -298,7 +298,7 @@
 - RabbitMQ, Kafka 를 사용한 메세지 큐잉 서비스 학습
   - 이벤트 소싱 패턴, 사가 패턴 등 마이크로서비스 간의 일관성 있는 요청과 데이터 동기화에 필요한 기술 학습
 
-### Gradle Multi Module
+### 💡 Gradle Multi Module
 
 회사 프로젝트를 진행하면서 각 모듈에 대해 분리된 의존성 관리가 필요하게 되어 관련 학습 진행 중에 있습니다.
 
