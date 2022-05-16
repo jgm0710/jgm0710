@@ -195,7 +195,7 @@
 
 ### <img src="https://user-images.githubusercontent.com/62986636/166611014-199586cd-08e3-4a38-b00f-2b79b64098ed.png" width="22">&nbsp; GitHub
 
-- 소스 코드 관리 경험
+- 소스 코드 관리 경험.
 - milestone, issue 기능을 사용한 협업 경험
 - git flow 전략을 적용한 협업 경험
 - git commit message convention 을 적용한 협업 경험
